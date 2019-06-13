@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mmm.MainActivity">
+    <item
+        android:id="@+id/Mode"
+        android:orderInCategory="100"
+        android:title="@string/Mode"
+        app:showAsAction="never" >
+        <menu android:id="@+id/Modes_menu">
+            <item android:id="@+id/Light_mode"
+                android:background="@color/material_dark_blue"
+                android:title="@string/Daymode" />
+            <item android:id="@+id/Night_mode"
+                android:background="@color/material_dark_blue"
+                android:title="@string/Nightmode"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/Design"
+        android:orderInCategory="100"
+        android:title="@string/Design"
+        app:showAsAction="never">
+        <menu android:id="@+id/Design_menu">
+                <item android:id="@+id/Blue_design"
+                    android:background="@color/material_dark_blue"
+                    android:title="@string/Blue" />
+                <item android:id="@+id/Green_design"
+                    android:background="@color/material_dark_blue"
+                    android:title="@string/Green" />
+        </menu>
+    </item>
+
+</menu>

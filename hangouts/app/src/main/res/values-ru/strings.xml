@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ft_hangouts</string>
+    <string name="Hint_EmailAddress">Электронная почта</string>
+    <string name="Hint_Name">Имя</string>
+    <string name="Hint_PhoneNumber">Номер телефона</string>
+    <string name="Mode">Режимы</string>
+    <string name="Daymode">Светлый режим</string>
+    <string name="Nightmode">Ночной режим</string>
+    <string name="Design">Цвет</string>
+    <string name="Blue">Голубой</string>
+    <string name="Green">Зеленый</string>
+    <string name="prefs_theme_key">theme</string>
+</resources>

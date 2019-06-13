@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary_blue_light">#828FCF</color>
+    <color name="colorPrimary_blue">#6E7FD3</color>
+    <color name="colorPrimaryDark_blue">#39436F</color>
+    <color name="buttonHighlightColor_pink">#E7B8C6</color>
+    <color name="colorPrimary_green">#008577</color>
+    <color name="colorPrimaryDark_green">#00574B</color>
+    <color name="buttonHighlightColor_red">#D81B60</color>
+    <color name="material_dark_blue">#092250</color>
+</resources>

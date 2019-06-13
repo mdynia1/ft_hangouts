@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hangouts</string>
+    <string name="Hint_Name">Name</string>
+    <string name="Hint_PhoneNumber">Phone number</string>
+    <string name="Hint_EmailAddress">Email address</string>
+    <string name="Mode">Mode</string>
+    <string name="Daymode">Light mode</string>
+    <string name="Nightmode">Night mode</string>
+    <string name="Design">Design</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="prefs_theme_key">theme</string>
+</resources>

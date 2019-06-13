@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hangouts</string>
+    <string name="Add">Додати</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Видалити</string>
+    <string name="SMS">SMS</string>
+    <string name="Hint_FirstName">Имя</string>
+    <string name="Hint_SecondName">Фамилия</string>
+    <string name="Hint_PhoneNumber">Номер телефону</string>
+    <string name="prefs_theme_key">theme</string>
+</resources>
